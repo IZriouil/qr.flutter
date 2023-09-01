@@ -7,6 +7,7 @@
 export 'package:qr/qr.dart';
 
 export 'src/errors.dart';
+export 'src/qr_image_blend_view.dart';
 export 'src/qr_image_view.dart';
 export 'src/qr_painter.dart';
 export 'src/qr_versions.dart';
